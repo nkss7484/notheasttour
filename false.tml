@@ -1,0 +1,15 @@
+<div class="fourpage">
+
+<p class="fourintro">Why Inspire Tourism</p>
+<p class="fourwrite">Well organised tours to elevate your spirit!</p>
+    <div class="fourimg">
+        <img src="special.png" alt="special">
+        <img src="advantage.png" alt="advantage">
+        <img src="service.png" alt="service">
+    </div>
+        <div class="imgwrite">
+            <p>Justice Tourism Specials</p>
+            <p>Justic Tourism Advantage</p>
+            <p>Justice Tourism Services</p>
+    </div>
+</div>
